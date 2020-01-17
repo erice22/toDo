@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">toDo</string>
+    <string name="edit_task_description">Describe task to be added..</string>
+    <string name="priority_string">Priority:</string>
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+    <string name="add_button">Add</string>
+    <string name="time_expec">Expected duration:</string>
+    <string name ="sort">Sort by:</string>
+    <string name="sortPriority">Priority</string>
+    <string name="sortDuration">Duration</string>
+
+
+</resources>
